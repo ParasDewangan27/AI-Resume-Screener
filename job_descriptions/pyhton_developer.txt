@@ -1,0 +1,26 @@
+Job Title: Python Developer
+
+Location: Bangalore
+
+Experience: 2+ years
+
+Required Skills:
+- Python
+- SQL
+- Machine Learning
+- Git
+- REST API
+
+Preferred Skills:
+- Docker
+- AWS
+- TensorFlow
+
+Education:
+Bachelor's Degree in Computer Science or related field.
+
+Responsibilities:
+- Develop backend APIs
+- Build ML pipelines
+- Write clean and maintainable code
+- Collaborate with cross-functional teams
